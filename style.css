@@ -14,13 +14,14 @@ body{
     width: 200px;
     /* background-color: #007bff; */
     padding: 15px ;
-    color: black;
+    color: rgb(0, 0, 0);
     text-align: center;
     text-decoration: none;
-    border: 1px solid gray;
+    box-shadow: #8A4FFF 0px 0px 10px;
+    border: 2px solid #bba1ee;
 }
 .main:hover {
-    background-color: gray;
+    background-color: #682ae6;
     color: white;
     text-decoration: none;
     margin: 10px auto;
